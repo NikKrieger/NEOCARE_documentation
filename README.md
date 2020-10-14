@@ -1,7 +1,7 @@
 
-Data_Dictionary.xlsx is the data dictionary for the NEOCARE database.
+**Data_Dictionary.xlsx** is the data dictionary for the NEOCARE database.
 
-Each *.docx file here annotates a portion of the process of setting up the NEOCARE registry. These general steps are as follows:
+Each ***.docx** file here annotates a portion of the process of setting up the NEOCARE registry. These general steps are as follows:
 
 1. Initial raw EHR data extraction at CCF and MH.
 
